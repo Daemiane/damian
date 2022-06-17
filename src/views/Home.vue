@@ -102,20 +102,20 @@ import VueCompareImage from "vue-compare-image";
 export default {
   metaInfo: {
     title: "Home",
-    titleTemplate: "%s ← Eldin's Space",
+    titleTemplate: "%s ← Damian Wasukira",
     meta: [
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { name: "description", content: "Eldin Zaimovic's Portfolio" },
+      { name: "description", content: "Damian's Portfolio" },
       { charset: "utf-8" },
-      { property: "og:title", content: "Eldin' Space" },
-      { property: "og:site_name", content: "Eldin' Space" },
+      { property: "og:title", content: "Damian Wasukira" },
+      { property: "og:site_name", content: "Damian Wasukira" },
       { property: "og:type", content: "website" },
       { property: "og:url", content: "https://eldin.space" },
       {
         property: "og:image",
         content: "https://i.imgur.com/Dcz2PGx.jpg"
       },
-      { property: "og:description", content: "Eldin Zaimovic's Portfolio" }
+      { property: "og:description", content: "Damian Wasukira's Portfolio" }
     ]
   },
   components: {
@@ -127,12 +127,12 @@ export default {
       icons: [
         { href: "https://github.com/EldinZaimovic", icon: "fab fa-github" },
         {
-          href: "https://stackoverflow.com/users/story/9660700",
+          href: "https://stackoverflow.com/users/19050318/damian",
           icon: "fab fa-stack-overflow"
         },
         { href: "https://twitter.com/EldinMatricar", icon: "fab fa-twitter" },
         {
-          href: "https://www.linkedin.com/in/eldin-zaimovic",
+          href: "https://www.linkedin.com/in/damianwasukira",
           icon: "fab fa-linkedin-in"
         },
         {
