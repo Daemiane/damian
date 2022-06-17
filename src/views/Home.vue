@@ -23,7 +23,7 @@
 
     <br>
 
-    <vue-typer class="headline" :repeat="0" text="Eldin Zaimovic"></vue-typer>
+    <vue-typer class="headline" :repeat="0" text="Damian Wasukira"></vue-typer>
     <vue-typer
       :text="text1"
       :repeat="Infinity"
