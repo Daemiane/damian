@@ -48,7 +48,7 @@
             </h3>
             <div>
               <p>
-                Hello! I’m Eldin Zaimovic. I'm a front-end developer who
+                Hello! I’m Damian Wasukira. I'm a front-end developer who
                 is passionate about
                 <span
                   class="green--text font-weight-bold"
