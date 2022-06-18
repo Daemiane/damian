@@ -54,7 +54,7 @@
                   class="green--text font-weight-bold"
                 >VUE</span>, building great user experiences,
                 fighting for simplicity over complexity and constantly learning.
-                When I'm not coding or making videos, you'll find me traveling across Europe.
+                When I'm not coding or designing stuff, i be home relaxing.
               </p>
             </div>
           </div>
@@ -110,10 +110,10 @@ export default {
       { property: "og:title", content: "Damian Wasukira" },
       { property: "og:site_name", content: "Damian Wasukira" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: "https://eldin.space" },
+      { property: "og:url", content: "https://damianw.netlify.app/" },
       {
         property: "og:image",
-        content: "https://i.imgur.com/Dcz2PGx.jpg"
+        content:{{! "https://i.imgur.com/Dcz2PGx.jpg"}}
       },
       { property: "og:description", content: "Damian Wasukira's Portfolio" }
     ]
@@ -135,11 +135,7 @@ export default {
           href: "https://www.linkedin.com/in/damianwasukira",
           icon: "fab fa-linkedin-in"
         },
-        {
-          href: "https://www.xing.com/profile/Eldin_Zaimovic?sc_o=mxb_p",
-          icon: "fab fa-xing"
-        },
-        {
+       {
           href: "https://www.facebook.com/EldinVasVoli",
           icon: "fab fa-facebook-f"
         },
